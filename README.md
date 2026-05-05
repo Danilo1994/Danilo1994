@@ -1,4 +1,4 @@
-## Sejam Bem Vindos  👋
+## Seja Bem Vindo  👋
 
 <!--
 **Danilo1994/Danilo1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👨‍💻 Me chamo - Danilo Vilas Boas
+# 👨‍💻 Me chamo Danilo Vilas Boas
 
 Profissional com mais de 10 anos de experiência em infraestrutura de TI, atuando com serviços cloud, servidores onpremisses, redes e segurança em ambientes corporativos.  
 
