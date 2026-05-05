@@ -37,5 +37,19 @@ Especialização em arquitetura Azure com domínio de serviços:
 ![Policy](https://img.shields.io/badge/Governance-Azure%20Policy-yellow)
 ![Monitor](https://img.shields.io/badge/Monitoring-Azure%20Monitor-blueviolet)
 ![Backup](https://img.shields.io/badge/Backup-Azure-lightgrey)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS][def]
+
+## 📊 Estatísticas GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dracula)
 
 
+
+
+
+[def]: https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws
