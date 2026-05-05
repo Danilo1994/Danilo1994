@@ -38,13 +38,4 @@ Especialização em arquitetura Azure com domínio de serviços:
 ![Monitor](https://img.shields.io/badge/Monitoring-Azure%20Monitor-blueviolet)
 ![Backup](https://img.shields.io/badge/Backup-Azure-lightgrey)
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-Compute-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Virtual Network](https://img.shields.io/badge/Virtual%20Network-Networking-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Load Balancer](https://img.shields.io/badge/Load%20Balancer-Azure-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white)
-![Application Gateway](https://img.shields.io/badge/Application%20Gateway-WAF-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-Security-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Policy](https://img.shields.io/badge/Azure%20Policy-Governance-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-Observability-0078D4?style=for-the-badge&logo=prometheus&logoColor=white)
-![Azure Backup](https://img.shields.io/badge/Azure%20Backup-Protection-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
+
